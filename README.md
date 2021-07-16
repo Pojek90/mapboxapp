@@ -1,2 +1,2 @@
-# https://www.mapbox.com/
+# mapboxapp
 Mapboxapp trial
